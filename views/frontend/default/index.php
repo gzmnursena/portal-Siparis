@@ -10,3 +10,12 @@
     </div>
 
 </div>
+
+
+
+
+<script>
+    window.onload = function() {
+        window.location.href = "http://portal.kouosl/siparis/urunler/index";
+    }
+</script>
